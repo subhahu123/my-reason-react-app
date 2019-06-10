@@ -7,7 +7,7 @@
   * Types
   * Pipe operator (|>)
 
-  ## Modules
+  ## Modul
 
   Just like Javascript, Reason has modules too. Reason modules are similar to
   Javascript, but they have a few differences:
